@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: f17cf5f01a75abf4c8202cf5d469668b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5241889047674319341
+    second: mid_mountain_0
+  - first:
+      213: -3678445877533771213
+    second: mid_mountain_1
+  - first:
+      213: 5261243120292013763
+    second: mid_mountain_2
+  - first:
+      213: 4601270240220898197
+    second: mid_mountain_3
+  - first:
+      213: -4269185848703373844
+    second: mid_mountain_4
+  - first:
+      213: -7925399080233258281
+    second: mid_mountain_5
+  - first:
+      213: 1959870005060344106
+    second: mid_mountain_6
+  - first:
+      213: 1845344708751393242
+    second: mid_mountain_7
+  - first:
+      213: -6513330215110152665
+    second: mid_mountain_8
+  - first:
+      213: 3287128006932858484
+    second: mid_mountain_9
+  - first:
+      213: -9003516238979669471
+    second: mid_mountain_10
+  - first:
+      213: -7415066633209213596
+    second: mid_mountain_11
+  - first:
+      213: -3535894771395146252
+    second: mid_mountain_12
+  - first:
+      213: 7455095504751154244
+    second: mid_mountain_13
+  - first:
+      213: -6322441701702168236
+    second: mid_mountain_14
+  - first:
+      213: -3126510429759545201
+    second: mid_mountain_15
+  - first:
+      213: 375118518636839689
+    second: mid_mountain_16
+  - first:
+      213: -6259334355817380604
+    second: mid_mountain_17
+  - first:
+      213: -6075905996334340480
+    second: mid_mountain_18
+  - first:
+      213: 8053656839704089248
+    second: mid_mountain_19
+  - first:
+      213: 5893099310825461393
+    second: mid_mountain_20
+  - first:
+      213: 3666940424117941140
+    second: mid_mountain_21
+  - first:
+      213: -1201357485247480244
+    second: mid_mountain_22
+  - first:
+      213: 3969205227719838567
+    second: mid_mountain_23
+  - first:
+      213: -4783701049094886017
+    second: mid_mountain_24
+  - first:
+      213: 3765374869538031198
+    second: mid_mountain_25
+  - first:
+      213: 7139061399976398990
+    second: mid_mountain_26
+  - first:
+      213: -6727293505081752111
+    second: mid_mountain_27
+  - first:
+      213: -2599526250368048409
+    second: mid_mountain_28
+  - first:
+      213: 6688934929260710389
+    second: mid_mountain_29
+  - first:
+      213: 7155302999592496063
+    second: mid_mountain_30
+  - first:
+      213: 7517716539981978869
+    second: mid_mountain_31
+  - first:
+      213: -5393743639036106052
+    second: mid_mountain_32
+  - first:
+      213: -3759437473756914516
+    second: mid_mountain_33
+  - first:
+      213: 4279744207390286946
+    second: mid_mountain_34
+  - first:
+      213: -2262881535859171344
+    second: mid_mountain_35
+  - first:
+      213: -491739924050664246
+    second: mid_mountain_36
+  - first:
+      213: 3103906322975172521
+    second: mid_mountain_37
+  - first:
+      213: 7875656368669066414
+    second: mid_mountain_38
+  - first:
+      213: 7492237267192116909
+    second: mid_mountain_39
+  - first:
+      213: -4054379146119524751
+    second: mid_mountain_40
+  - first:
+      213: 2255066450388890994
+    second: mid_mountain_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mid_mountain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 145
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e8c511fa11147b0800000000000000
+      internalID: -5241889047674319341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 853
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7910b6f883fcc0800000000000000
+      internalID: -3678445877533771213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 835
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c629fd1eb0b30940800000000000000
+      internalID: 5261243120292013763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 743
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59361f7a7eefadf30800000000000000
+      internalID: 4601270240220898197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 789
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced29e7f61ec0c4c0800000000000000
+      internalID: -4269185848703373844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 821
+        width: 137
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23d7fe683530290800000000000000
+      internalID: -7925399080233258281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 795
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a299091c26bd23b10800000000000000
+      internalID: 1959870005060344106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 853
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1064d4c3bfb9910800000000000000
+      internalID: 1845344708751393242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 800
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e6a8fada00c95a0800000000000000
+      internalID: -6513330215110152665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 759
+        width: 245
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4768870a1893e9d20800000000000000
+      internalID: 3287128006932858484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 833
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122e72eeea51d0380800000000000000
+      internalID: -9003516238979669471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 839
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d86bd0f24681990800000000000000
+      internalID: -7415066633209213596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 733
+        width: 303
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc4db707afdeec0800000000000000
+      internalID: -3535894771395146252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_13
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 743
+        width: 193
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444dd4fdcd1d57760800000000000000
+      internalID: 7455095504751154244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_14
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 821
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4511de025cc2248a0800000000000000
+      internalID: -6322441701702168236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 819
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e0af34576c94d0800000000000000
+      internalID: -3126510429759545201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_16
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 813
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90305042e40b43500800000000000000
+      internalID: 375118518636839689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 783
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4054b1711906229a0800000000000000
+      internalID: -6259334355817380604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 791
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08663d710bb0eaba0800000000000000
+      internalID: -6075905996334340480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 783
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a21571c93654cf60800000000000000
+      internalID: 8053656839704089248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 783
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d9d7a99e78c150800000000000000
+      internalID: 5893099310825461393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 783
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f11033e693e230800000000000000
+      internalID: 3666940424117941140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 727
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e31937bbbe35fe0800000000000000
+      internalID: -1201357485247480244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 735
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b4dd6ff13751730800000000000000
+      internalID: 3969205227719838567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 735
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2901bd31ec9db0800000000000000
+      internalID: -4783701049094886017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 753
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564ff87e7c414430800000000000000
+      internalID: 3765374869538031198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 775
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80db47d48a031360800000000000000
+      internalID: 7139061399976398990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 721
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54fc9233ad3a2a0800000000000000
+      internalID: -6727293505081752111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 756
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2628ee5a0acebd0800000000000000
+      internalID: -2599526250368048409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_29
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 767
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f98940f0eed3dc50800000000000000
+      internalID: 6688934929260710389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb6ffeea2ebc4360800000000000000
+      internalID: 7155302999592496063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 727
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc54bfcc5b445860800000000000000
+      internalID: 7517716539981978869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 703
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaeab1dcb29525b0800000000000000
+      internalID: -5393743639036106052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 719
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac5d65398bc3dbc0800000000000000
+      internalID: -3759437473756914516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 719
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a80b7ea4b46b30800000000000000
+      internalID: 4279744207390286946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 718
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd25e7b31a890e0800000000000000
+      internalID: -2262881535859171344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_36
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 713
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42519f42dfc29f0800000000000000
+      internalID: -491739924050664246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_37
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 713
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a726050b5a431b20800000000000000
+      internalID: 3103906322975172521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_38
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 719
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea400938db3fb4d60800000000000000
+      internalID: 7875656368669066414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 718
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6fde35916c9f760800000000000000
+      internalID: 7492237267192116909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_40
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 701
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4bcac5a3fbb7c0800000000000000
+      internalID: -4054379146119524751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_mountain_41
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 709
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b4502dfa9b4f10800000000000000
+      internalID: 2255066450388890994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mid_mountain_0: -5241889047674319341
+      mid_mountain_1: -3678445877533771213
+      mid_mountain_10: -9003516238979669471
+      mid_mountain_11: -7415066633209213596
+      mid_mountain_12: -3535894771395146252
+      mid_mountain_13: 7455095504751154244
+      mid_mountain_14: -6322441701702168236
+      mid_mountain_15: -3126510429759545201
+      mid_mountain_16: 375118518636839689
+      mid_mountain_17: -6259334355817380604
+      mid_mountain_18: -6075905996334340480
+      mid_mountain_19: 8053656839704089248
+      mid_mountain_2: 5261243120292013763
+      mid_mountain_20: 5893099310825461393
+      mid_mountain_21: 3666940424117941140
+      mid_mountain_22: -1201357485247480244
+      mid_mountain_23: 3969205227719838567
+      mid_mountain_24: -4783701049094886017
+      mid_mountain_25: 3765374869538031198
+      mid_mountain_26: 7139061399976398990
+      mid_mountain_27: -6727293505081752111
+      mid_mountain_28: -2599526250368048409
+      mid_mountain_29: 6688934929260710389
+      mid_mountain_3: 4601270240220898197
+      mid_mountain_30: 7155302999592496063
+      mid_mountain_31: 7517716539981978869
+      mid_mountain_32: -5393743639036106052
+      mid_mountain_33: -3759437473756914516
+      mid_mountain_34: 4279744207390286946
+      mid_mountain_35: -2262881535859171344
+      mid_mountain_36: -491739924050664246
+      mid_mountain_37: 3103906322975172521
+      mid_mountain_38: 7875656368669066414
+      mid_mountain_39: 7492237267192116909
+      mid_mountain_4: -4269185848703373844
+      mid_mountain_40: -4054379146119524751
+      mid_mountain_41: 2255066450388890994
+      mid_mountain_5: -7925399080233258281
+      mid_mountain_6: 1959870005060344106
+      mid_mountain_7: 1845344708751393242
+      mid_mountain_8: -6513330215110152665
+      mid_mountain_9: 3287128006932858484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

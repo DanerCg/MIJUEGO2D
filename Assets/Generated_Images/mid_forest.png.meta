@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 741bf415c2a8bfc41bbc9f557109c0c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1496270935575020469
+    second: mid_forest_0
+  - first:
+      213: 1490079215264488883
+    second: mid_forest_1
+  - first:
+      213: -8197824566681923193
+    second: mid_forest_2
+  - first:
+      213: 1556627401379742525
+    second: mid_forest_3
+  - first:
+      213: -7044915799061652
+    second: mid_forest_4
+  - first:
+      213: -5321532460502234307
+    second: mid_forest_5
+  - first:
+      213: -5477022832005036369
+    second: mid_forest_6
+  - first:
+      213: -7964168585965537204
+    second: mid_forest_7
+  - first:
+      213: 3915135426146871249
+    second: mid_forest_8
+  - first:
+      213: 7982245306346021833
+    second: mid_forest_9
+  - first:
+      213: -6009247647501345832
+    second: mid_forest_10
+  - first:
+      213: 6484920245263416663
+    second: mid_forest_11
+  - first:
+      213: 3559960910661015936
+    second: mid_forest_12
+  - first:
+      213: 7919273163628113121
+    second: mid_forest_13
+  - first:
+      213: 2167985405055929825
+    second: mid_forest_14
+  - first:
+      213: -8162983584083155694
+    second: mid_forest_15
+  - first:
+      213: -1157211495280502921
+    second: mid_forest_16
+  - first:
+      213: 5022582228407701383
+    second: mid_forest_17
+  - first:
+      213: -6594078172186789075
+    second: mid_forest_18
+  - first:
+      213: -327533184386468089
+    second: mid_forest_19
+  - first:
+      213: 558628702909544086
+    second: mid_forest_20
+  - first:
+      213: -8287891887614599319
+    second: mid_forest_21
+  - first:
+      213: -2231714999419230893
+    second: mid_forest_22
+  - first:
+      213: -4747231067177319877
+    second: mid_forest_23
+  - first:
+      213: -1621018608745768019
+    second: mid_forest_24
+  - first:
+      213: -6950852832462938429
+    second: mid_forest_25
+  - first:
+      213: -5226769851496688211
+    second: mid_forest_26
+  - first:
+      213: -8223122271242547254
+    second: mid_forest_27
+  - first:
+      213: -4562581842903711011
+    second: mid_forest_28
+  - first:
+      213: -2227303178929808237
+    second: mid_forest_29
+  - first:
+      213: 4343141675142270941
+    second: mid_forest_30
+  - first:
+      213: -7965797542013907328
+    second: mid_forest_31
+  - first:
+      213: -7667589522780330608
+    second: mid_forest_32
+  - first:
+      213: 7902264535667673694
+    second: mid_forest_33
+  - first:
+      213: -7872217645238343147
+    second: mid_forest_34
+  - first:
+      213: 3999242453886578520
+    second: mid_forest_35
+  - first:
+      213: -4846697407999561655
+    second: mid_forest_36
+  - first:
+      213: -1175956630410590226
+    second: mid_forest_37
+  - first:
+      213: -1093791324230537139
+    second: mid_forest_38
+  - first:
+      213: 3216657528046251653
+    second: mid_forest_39
+  - first:
+      213: -4874159352838967762
+    second: mid_forest_40
+  - first:
+      213: 6633941057620131982
+    second: mid_forest_41
+  - first:
+      213: -6465004130121998428
+    second: mid_forest_42
+  - first:
+      213: -4939018580045344611
+    second: mid_forest_43
+  - first:
+      213: -5647568758612668154
+    second: mid_forest_44
+  - first:
+      213: -3979336099586191098
+    second: mid_forest_45
+  - first:
+      213: -6477743948802787660
+    second: mid_forest_46
+  - first:
+      213: -5396318570463702787
+    second: mid_forest_47
+  - first:
+      213: -4465388920212963370
+    second: mid_forest_48
+  - first:
+      213: 665511042660161337
+    second: mid_forest_49
+  - first:
+      213: 6812444249725447794
+    second: mid_forest_50
+  - first:
+      213: -3585861643521771870
+    second: mid_forest_51
+  - first:
+      213: 2432445313914211264
+    second: mid_forest_52
+  - first:
+      213: 3057052497540995257
+    second: mid_forest_53
+  - first:
+      213: -2795487416567798654
+    second: mid_forest_54
+  - first:
+      213: -1800136434840520312
+    second: mid_forest_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mid_forest_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 861
+        width: 295
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c3f4df28d2c3be0800000000000000
+      internalID: -1496270935575020469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 821
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5809c623dda410800000000000000
+      internalID: 1490079215264488883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 790
+        width: 145
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78114f39df97b3e80800000000000000
+      internalID: -8197824566681923193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 933
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3301eacf504a9510800000000000000
+      internalID: 1556627401379742525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 933
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0358bfa8f6eff0800000000000000
+      internalID: -7044915799061652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 909
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bcd0ffb6e1626b0800000000000000
+      internalID: -5321532460502234307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 964
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c2a7b0c4bdf3b0800000000000000
+      internalID: -5477022832005036369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 979
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f236fdd6997190800000000000000
+      internalID: -7964168585965537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 933
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d728034dea555630800000000000000
+      internalID: 3915135426146871249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 927
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a8ca70d1a6ce60800000000000000
+      internalID: 7982245306346021833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 753
+        width: 285
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db945b5a1dda9ca0800000000000000
+      internalID: -6009247647501345832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 937
+        width: 205
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3aafba901ff950800000000000000
+      internalID: 6484920245263416663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_12
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 982
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089d9363695876130800000000000000
+      internalID: 3559960910661015936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_13
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 897
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec6655fbf8e6ed60800000000000000
+      internalID: 7919273163628113121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 895
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed079a4d3b361e10800000000000000
+      internalID: 2167985405055929825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 811
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e06bfda147be80800000000000000
+      internalID: -8162983584083155694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 903
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7779ec5b642c0ffe0800000000000000
+      internalID: -1157211495280502921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_17
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 892
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4e6b0debc3b540800000000000000
+      internalID: 5022582228407701383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b36add6d02d74a0800000000000000
+      internalID: -6594078172186789075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 861
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707fd7cdd4e547bf0800000000000000
+      internalID: -327533184386468089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 879
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b24678d5a0c700800000000000000
+      internalID: 558628702909544086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd3e54d3e7bfc80800000000000000
+      internalID: -8287891887614599319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 701
+        width: 297
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a4bb380b5701e0800000000000000
+      internalID: -2231714999419230893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_23
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 857
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32823e0f727e1eb0800000000000000
+      internalID: -4747231067177319877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 797
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab1963f92cf089e0800000000000000
+      internalID: -1621018608745768019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 863
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce57031d2c998f90800000000000000
+      internalID: -6950852832462938429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 749
+        width: 173
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da591de3388c677b0800000000000000
+      internalID: -5226769851496688211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 865
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0cfdbcd991ed80800000000000000
+      internalID: -8223122271242547254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 767
+        width: 203
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c31bccf37ea0c0800000000000000
+      internalID: -4562581842903711011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_29
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 843
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5acc3f870711e0800000000000000
+      internalID: -2227303178929808237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_30
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 866
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfcc04b750f54c30800000000000000
+      internalID: 4343141675142270941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 861
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec493175dc37190800000000000000
+      internalID: -7965797542013907328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_32
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 861
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095eb2324ff379590800000000000000
+      internalID: -7667589522780330608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_33
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 829
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a83a92abb7aad60800000000000000
+      internalID: 7902264535667673694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_34
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 846
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa10da2c340c290800000000000000
+      internalID: -7872217645238343147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 797
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f229aa2d9208730800000000000000
+      internalID: 3999242453886578520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 789
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9403166e2621dbcb0800000000000000
+      internalID: -4846697407999561655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_37
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 830
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee78c15dca92eafe0800000000000000
+      internalID: -1175956630410590226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 813
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40b5d4f59212d0f0800000000000000
+      internalID: -1093791324230537139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_39
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 815
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e684baafcd3ac20800000000000000
+      internalID: 3216657528046251653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_40
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 831
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea26b94e18b5cb0800000000000000
+      internalID: -4874159352838967762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 799
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c3586e3e701c50800000000000000
+      internalID: 6633941057620131982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 813
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af15a82ff0b746a0800000000000000
+      internalID: -6465004130121998428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 799
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d75df4c4157bb0800000000000000
+      internalID: -4939018580045344611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 793
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6015c4ad22ecf91b0800000000000000
+      internalID: -5647568758612668154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 767
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d64e96ee86c8c0800000000000000
+      internalID: -3979336099586191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 783
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b67ca9f23e6a16a0800000000000000
+      internalID: -6477743948802787660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_47
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 798
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0daa0e9dc6c15b0800000000000000
+      internalID: -5396318570463702787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_48
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 800
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfbdba8f60c702c0800000000000000
+      internalID: -4465388920212963370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_49
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 813
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dbdb64ce5c3900800000000000000
+      internalID: 665511042660161337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_50
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 769
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea90583f9aa8e50800000000000000
+      internalID: 6812444249725447794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_51
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 781
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6bf2c75d57c3ec0800000000000000
+      internalID: -3585861643521771870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_52
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 767
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8b671028c1c120800000000000000
+      internalID: 2432445313914211264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d6afac05dc6a20800000000000000
+      internalID: 3057052497540995257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 753
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e669710f6439d0800000000000000
+      internalID: -2795487416567798654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_forest_55
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 767
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b7163371a407e0800000000000000
+      internalID: -1800136434840520312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mid_forest_0: -1496270935575020469
+      mid_forest_1: 1490079215264488883
+      mid_forest_10: -6009247647501345832
+      mid_forest_11: 6484920245263416663
+      mid_forest_12: 3559960910661015936
+      mid_forest_13: 7919273163628113121
+      mid_forest_14: 2167985405055929825
+      mid_forest_15: -8162983584083155694
+      mid_forest_16: -1157211495280502921
+      mid_forest_17: 5022582228407701383
+      mid_forest_18: -6594078172186789075
+      mid_forest_19: -327533184386468089
+      mid_forest_2: -8197824566681923193
+      mid_forest_20: 558628702909544086
+      mid_forest_21: -8287891887614599319
+      mid_forest_22: -2231714999419230893
+      mid_forest_23: -4747231067177319877
+      mid_forest_24: -1621018608745768019
+      mid_forest_25: -6950852832462938429
+      mid_forest_26: -5226769851496688211
+      mid_forest_27: -8223122271242547254
+      mid_forest_28: -4562581842903711011
+      mid_forest_29: -2227303178929808237
+      mid_forest_3: 1556627401379742525
+      mid_forest_30: 4343141675142270941
+      mid_forest_31: -7965797542013907328
+      mid_forest_32: -7667589522780330608
+      mid_forest_33: 7902264535667673694
+      mid_forest_34: -7872217645238343147
+      mid_forest_35: 3999242453886578520
+      mid_forest_36: -4846697407999561655
+      mid_forest_37: -1175956630410590226
+      mid_forest_38: -1093791324230537139
+      mid_forest_39: 3216657528046251653
+      mid_forest_4: -7044915799061652
+      mid_forest_40: -4874159352838967762
+      mid_forest_41: 6633941057620131982
+      mid_forest_42: -6465004130121998428
+      mid_forest_43: -4939018580045344611
+      mid_forest_44: -5647568758612668154
+      mid_forest_45: -3979336099586191098
+      mid_forest_46: -6477743948802787660
+      mid_forest_47: -5396318570463702787
+      mid_forest_48: -4465388920212963370
+      mid_forest_49: 665511042660161337
+      mid_forest_5: -5321532460502234307
+      mid_forest_50: 6812444249725447794
+      mid_forest_51: -3585861643521771870
+      mid_forest_52: 2432445313914211264
+      mid_forest_53: 3057052497540995257
+      mid_forest_54: -2795487416567798654
+      mid_forest_55: -1800136434840520312
+      mid_forest_6: -5477022832005036369
+      mid_forest_7: -7964168585965537204
+      mid_forest_8: 3915135426146871249
+      mid_forest_9: 7982245306346021833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

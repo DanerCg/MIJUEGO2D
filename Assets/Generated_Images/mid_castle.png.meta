@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 84ccc9b32ad91a74590783099ba7927c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5615634088869745778
+    second: mid_castle_0
+  - first:
+      213: 6415204664203814243
+    second: mid_castle_1
+  - first:
+      213: -2886168057395329236
+    second: mid_castle_2
+  - first:
+      213: 633955372250840661
+    second: mid_castle_3
+  - first:
+      213: -238196520448341343
+    second: mid_castle_4
+  - first:
+      213: -103077004949260894
+    second: mid_castle_5
+  - first:
+      213: 2080123221048394703
+    second: mid_castle_6
+  - first:
+      213: -5926518513785934592
+    second: mid_castle_7
+  - first:
+      213: 4521879186330732720
+    second: mid_castle_8
+  - first:
+      213: -7893077914151272391
+    second: mid_castle_9
+  - first:
+      213: 129780718145021612
+    second: mid_castle_10
+  - first:
+      213: 6446561226860005187
+    second: mid_castle_11
+  - first:
+      213: -801591479760512409
+    second: mid_castle_12
+  - first:
+      213: -6106328910006618174
+    second: mid_castle_13
+  - first:
+      213: 3026852097467712193
+    second: mid_castle_14
+  - first:
+      213: 5211652867205066819
+    second: mid_castle_15
+  - first:
+      213: 8479376383177894967
+    second: mid_castle_16
+  - first:
+      213: 1864653403100028866
+    second: mid_castle_17
+  - first:
+      213: 6194241566536140530
+    second: mid_castle_18
+  - first:
+      213: 1599425914555020246
+    second: mid_castle_19
+  - first:
+      213: 952593780153715281
+    second: mid_castle_20
+  - first:
+      213: 398738681913278648
+    second: mid_castle_21
+  - first:
+      213: 2145648250515388187
+    second: mid_castle_22
+  - first:
+      213: -3688300017327702925
+    second: mid_castle_23
+  - first:
+      213: 9095326248620392639
+    second: mid_castle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mid_castle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b28509c824112b0800000000000000
+      internalID: -5615634088869745778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 975
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652c4327a2670950800000000000000
+      internalID: 6415204664203814243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1007
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c274fd0817542f7d0800000000000000
+      internalID: -2886168057395329236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e367e5d034cc800800000000000000
+      internalID: 633955372250840661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 975
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa41f3d681c1bcf0800000000000000
+      internalID: -238196520448341343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 969
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5fc77920cc19ef0800000000000000
+      internalID: -103077004949260894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 977
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc381af6c051edc10800000000000000
+      internalID: 2080123221048394703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_7
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 947
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d630fcfc6c0cda0800000000000000
+      internalID: -5926518513785934592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_8
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 979
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c97a7921f0ce30800000000000000
+      internalID: 4521879186330732720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 937
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304886d477267290800000000000000
+      internalID: -7893077914151272391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 946
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6aab320e21dc100800000000000000
+      internalID: 129780718145021612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_11
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 944
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470ccdc749c67950800000000000000
+      internalID: 6446561226860005187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_12
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 945
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a15e1dbcc20e4f0800000000000000
+      internalID: -801591479760512409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 952
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c77b558536f14ba0800000000000000
+      internalID: -6106328910006618174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 919
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2853912f9810a20800000000000000
+      internalID: 3026852097467712193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_15
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 936
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34077629ba2835840800000000000000
+      internalID: 5211652867205066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca72415ebcca570800000000000000
+      internalID: 8479376383177894967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 919
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf1009046490e910800000000000000
+      internalID: 1864653403100028866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_18
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 911
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f68852e2ed56f550800000000000000
+      internalID: 6194241566536140530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 895
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33b99256d423610800000000000000
+      internalID: 1599425914555020246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 894
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0f49fefa483d00800000000000000
+      internalID: 952593780153715281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 903
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b006a5f7ba988500800000000000000
+      internalID: 398738681913278648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 785
+        width: 143
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1778e837bfd6cd10800000000000000
+      internalID: 2145648250515388187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 897
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7d1afca680dcc0800000000000000
+      internalID: -3688300017327702925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mid_castle_24
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 885
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00e45b807193e70800000000000000
+      internalID: 9095326248620392639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mid_castle_0: -5615634088869745778
+      mid_castle_1: 6415204664203814243
+      mid_castle_10: 129780718145021612
+      mid_castle_11: 6446561226860005187
+      mid_castle_12: -801591479760512409
+      mid_castle_13: -6106328910006618174
+      mid_castle_14: 3026852097467712193
+      mid_castle_15: 5211652867205066819
+      mid_castle_16: 8479376383177894967
+      mid_castle_17: 1864653403100028866
+      mid_castle_18: 6194241566536140530
+      mid_castle_19: 1599425914555020246
+      mid_castle_2: -2886168057395329236
+      mid_castle_20: 952593780153715281
+      mid_castle_21: 398738681913278648
+      mid_castle_22: 2145648250515388187
+      mid_castle_23: -3688300017327702925
+      mid_castle_24: 9095326248620392639
+      mid_castle_3: 633955372250840661
+      mid_castle_4: -238196520448341343
+      mid_castle_5: -103077004949260894
+      mid_castle_6: 2080123221048394703
+      mid_castle_7: -5926518513785934592
+      mid_castle_8: 4521879186330732720
+      mid_castle_9: -7893077914151272391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
