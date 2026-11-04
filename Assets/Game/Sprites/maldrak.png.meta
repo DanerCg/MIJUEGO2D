@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: df2e482151046144fad626a42ef0df1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -825244922779611687
+    second: maldrak_0
+  - first:
+      213: -8800105790223187651
+    second: maldrak_1
+  - first:
+      213: 1186555364211137742
+    second: maldrak_2
+  - first:
+      213: 8827099616154422549
+    second: maldrak_3
+  - first:
+      213: 6222632626583628224
+    second: maldrak_4
+  - first:
+      213: 6667800025305157409
+    second: maldrak_5
+  - first:
+      213: -4753040916741484975
+    second: maldrak_6
+  - first:
+      213: -5110395866931785474
+    second: maldrak_7
+  - first:
+      213: 2384472193632456418
+    second: maldrak_8
+  - first:
+      213: 5699258309287135702
+    second: maldrak_9
+  - first:
+      213: -1019378636856903622
+    second: maldrak_10
+  - first:
+      213: 8686642722189597769
+    second: maldrak_11
+  - first:
+      213: -1622702160892069883
+    second: maldrak_12
+  - first:
+      213: 6234001296883635307
+    second: maldrak_13
+  - first:
+      213: -3832491480975197807
+    second: maldrak_14
+  - first:
+      213: 2752447662008195529
+    second: maldrak_15
+  - first:
+      213: -1880102127463893322
+    second: maldrak_16
+  - first:
+      213: 820900350303562703
+    second: maldrak_17
+  - first:
+      213: 131299402179114410
+    second: maldrak_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maldrak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1009
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc6057d142c84f0800000000000000
+      internalID: -825244922779611687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 903
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3183e3a86ebfd580800000000000000
+      internalID: -8800105790223187651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 902
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc932e21dd777010800000000000000
+      internalID: 1186555364211137742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 897
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0fd93558208a70800000000000000
+      internalID: 8827099616154422549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 893
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e54ba76b3b5650800000000000000
+      internalID: 6222632626583628224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 877
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f87a5abc8c88c50800000000000000
+      internalID: 6667800025305157409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 855
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e0aba087ec90eb0800000000000000
+      internalID: -4753040916741484975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 853
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef018e9f80a3419b0800000000000000
+      internalID: -5110395866931785474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 799
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee424e93d8571120800000000000000
+      internalID: 2384472193632456418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 821
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c0408c35d71f40800000000000000
+      internalID: 5699258309287135702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 807
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38b58ad7807ad1f0800000000000000
+      internalID: -1019378636856903622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 773
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cd7d238872d8870800000000000000
+      internalID: 8686642722189597769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 514
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508f4cb6bf00b79e0800000000000000
+      internalID: -1622702160892069883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 511
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d21e762f938650800000000000000
+      internalID: 6234001296883635307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 445
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19933cfad4140dac0800000000000000
+      internalID: -3832491480975197807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 446
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95ad4c098a23620800000000000000
+      internalID: 2752447662008195529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 354
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6fe07831988e5e0800000000000000
+      internalID: -1880102127463893322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_17
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 343
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb66dfe48c646b00800000000000000
+      internalID: 820900350303562703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldrak_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 263
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa57b125c1872d100800000000000000
+      internalID: 131299402179114410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maldrak_0: -825244922779611687
+      maldrak_1: -8800105790223187651
+      maldrak_10: -1019378636856903622
+      maldrak_11: 8686642722189597769
+      maldrak_12: -1622702160892069883
+      maldrak_13: 6234001296883635307
+      maldrak_14: -3832491480975197807
+      maldrak_15: 2752447662008195529
+      maldrak_16: -1880102127463893322
+      maldrak_17: 820900350303562703
+      maldrak_18: 131299402179114410
+      maldrak_2: 1186555364211137742
+      maldrak_3: 8827099616154422549
+      maldrak_4: 6222632626583628224
+      maldrak_5: 6667800025305157409
+      maldrak_6: -4753040916741484975
+      maldrak_7: -5110395866931785474
+      maldrak_8: 2384472193632456418
+      maldrak_9: 5699258309287135702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
